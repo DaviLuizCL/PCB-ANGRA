@@ -90,7 +90,7 @@
 	(footprint "Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "075832c8-f71a-46dd-b84d-1190ea4e6fe4")
-		(at -45.055 82.385)
+		(at 113.76 125.66)
 		(descr "Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
 		(tags "Through hole socket strip THT 1x02 1.00mm single row")
 		(property "Reference" "J3"
@@ -1604,7 +1604,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "1a4de43d-725f-475d-83f4-43f86f5d3fee")
-		(at -26.465 70.695)
+		(at 132.35 113.97)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J11"
@@ -1896,7 +1896,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "1f78f873-4e3d-48c1-86be-63151a0a2546")
-		(at -45.095 33.975)
+		(at 113.72 77.25)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R2"
@@ -2067,7 +2067,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "20666049-1ab3-45c4-84f2-60286554e991")
-		(at -40.235 70.695)
+		(at 118.58 113.97)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J8"
@@ -2359,7 +2359,7 @@
 	(footprint "Connector_PinSocket_1.00mm:PinSocket_1x08_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "248bbd65-493e-4882-ba98-0a88a15a770b")
-		(at -41.505 86.935)
+		(at 117.31 130.21)
 		(descr "Through hole straight socket strip, 1x08, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
 		(tags "Through hole socket strip THT 1x08 1.00mm single row")
 		(property "Reference" "J2"
@@ -2755,7 +2755,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "2b6e3c31-a8b8-44e2-b03b-5eeebfade21a")
-		(at -45.095 58.275)
+		(at 113.72 101.55)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R8"
@@ -2926,7 +2926,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "30cb7068-a95a-42f9-8db2-dc78c5e301e9")
-		(at -45.095 42.075)
+		(at 113.72 85.35)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R4"
@@ -3097,7 +3097,7 @@
 	(footprint "Connector_PinSocket_1.00mm:PinSocket_1x08_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "32b9f82a-0c20-4271-9dcb-da35f4a0ea65")
-		(at -45.055 86.935)
+		(at 113.76 130.21)
 		(descr "Through hole straight socket strip, 1x08, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
 		(tags "Through hole socket strip THT 1x08 1.00mm single row")
 		(property "Reference" "J1"
@@ -3493,7 +3493,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "47b3ad8f-fa2b-4b97-9e5f-e487c39627fc")
-		(at -44.825 70.695)
+		(at 113.99 113.97)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J7"
@@ -3785,7 +3785,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "609888b6-fd1f-40b1-8d21-4cc6766d0348")
-		(at -45.095 50.175)
+		(at 113.72 93.45)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R6"
@@ -3956,7 +3956,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "77c0e8b0-dece-4849-a97e-343202620ae5")
-		(at -35.645 70.695)
+		(at 123.17 113.97)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J9"
@@ -4248,7 +4248,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "82207971-4bdf-44eb-a2d3-f2e19cc71c00")
-		(at -45.095 46.125)
+		(at 113.72 89.4)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R5"
@@ -4419,7 +4419,7 @@
 	(footprint "Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "8446d9e9-6198-48fe-9596-3d6d565b00f0")
-		(at -37.955 82.385)
+		(at 120.86 125.66)
 		(descr "Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
 		(tags "Through hole socket strip THT 1x02 1.00mm single row")
 		(property "Reference" "J5"
@@ -4689,7 +4689,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "99ce2d55-0d0a-4021-8b67-ad0fb73a44cf")
-		(at -45.095 54.225)
+		(at 113.72 97.5)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R7"
@@ -4860,7 +4860,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a2b9c4f3-49a9-4d07-adbf-b46ffc65f1a2")
-		(at -45.095 66.375)
+		(at 113.72 109.65)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R10"
@@ -5031,7 +5031,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a4b186a5-c1b1-41f4-9e8b-8b53c44f250a")
-		(at -45.095 62.325)
+		(at 113.72 105.6)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R9"
@@ -5202,7 +5202,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a8d9bbfb-b993-42bd-b897-03d0ab6285b1")
-		(at -31.055 70.695)
+		(at 127.76 113.97)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J10"
@@ -5494,7 +5494,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ace7e392-1a5e-4ddf-a250-32162cf9ef74")
-		(at -45.095 38.025)
+		(at 113.72 81.3)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R3"
@@ -5665,7 +5665,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c577f83d-f972-46ba-8351-3c6ad87b9463")
-		(at -21.875 70.695)
+		(at 141 69.66 180)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J12"
@@ -5737,44 +5737,14 @@
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 8.95)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3192c915-4487-42c3-aa41-c5fd93e57340")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d23614e8-4d4c-484c-aafe-524f77ca5899")
-		)
-		(fp_line
-			(start -1.33 8.95)
+			(start 1.33 1.27)
 			(end 1.33 8.95)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "109d7271-da7e-42ad-8385-d173bffb9611")
-		)
-		(fp_line
-			(start 0 -1.33)
-			(end 1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e40d2959-89f9-472a-96db-88c2c070355e")
+			(uuid "aed23587-1209-4a3e-82f7-d25795a71491")
 		)
 		(fp_line
 			(start 1.33 -1.33)
@@ -5787,44 +5757,44 @@
 			(uuid "2e4c7393-6f77-47dc-b869-48fc888aca0b")
 		)
 		(fp_line
-			(start 1.33 1.27)
+			(start 0 -1.33)
+			(end 1.33 -1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e40d2959-89f9-472a-96db-88c2c070355e")
+		)
+		(fp_line
+			(start -1.33 8.95)
 			(end 1.33 8.95)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "aed23587-1209-4a3e-82f7-d25795a71491")
+			(uuid "109d7271-da7e-42ad-8385-d173bffb9611")
 		)
 		(fp_line
-			(start -1.77 -1.77)
-			(end 1.77 -1.77)
+			(start -1.33 1.27)
+			(end 1.33 1.27)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "d89764a7-1396-4850-a791-05051930243e")
+			(layer "F.SilkS")
+			(uuid "d23614e8-4d4c-484c-aafe-524f77ca5899")
 		)
 		(fp_line
-			(start -1.77 9.39)
-			(end -1.77 -1.77)
+			(start -1.33 1.27)
+			(end -1.33 8.95)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "f94a3461-bf70-4d0a-bda8-18153dfd7f12")
-		)
-		(fp_line
-			(start 1.77 -1.77)
-			(end 1.77 9.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "be9fe5ed-d52c-4379-b194-b66f4c0df818")
+			(layer "F.SilkS")
+			(uuid "3192c915-4487-42c3-aa41-c5fd93e57340")
 		)
 		(fp_line
 			(start 1.77 9.39)
@@ -5837,34 +5807,44 @@
 			(uuid "45b2f148-6575-4698-96fd-a760fda43344")
 		)
 		(fp_line
-			(start -1.27 -1.27)
-			(end 0.635 -1.27)
+			(start 1.77 -1.77)
+			(end 1.77 9.39)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "445c5c58-9055-4912-8f2c-a22104d21024")
+			(layer "F.CrtYd")
+			(uuid "be9fe5ed-d52c-4379-b194-b66f4c0df818")
 		)
 		(fp_line
-			(start -1.27 8.89)
-			(end -1.27 -1.27)
+			(start -1.77 9.39)
+			(end -1.77 -1.77)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "6538486f-0176-4abb-a96a-4b71f9d57188")
+			(layer "F.CrtYd")
+			(uuid "f94a3461-bf70-4d0a-bda8-18153dfd7f12")
 		)
 		(fp_line
-			(start 0.635 -1.27)
-			(end 1.27 -0.635)
+			(start -1.77 -1.77)
+			(end 1.77 -1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d89764a7-1396-4850-a791-05051930243e")
+		)
+		(fp_line
+			(start 1.27 8.89)
+			(end -1.27 8.89)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7fb32aa2-8aee-4002-af1e-5871915112b0")
+			(uuid "cfa4262d-1eb5-4b0a-bfee-bb0c446a8fa9")
 		)
 		(fp_line
 			(start 1.27 -0.635)
@@ -5877,14 +5857,34 @@
 			(uuid "0471a1c8-d1d6-4a20-ab86-ae10be170b38")
 		)
 		(fp_line
-			(start 1.27 8.89)
-			(end -1.27 8.89)
+			(start 0.635 -1.27)
+			(end 1.27 -0.635)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cfa4262d-1eb5-4b0a-bfee-bb0c446a8fa9")
+			(uuid "7fb32aa2-8aee-4002-af1e-5871915112b0")
+		)
+		(fp_line
+			(start -1.27 8.89)
+			(end -1.27 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6538486f-0176-4abb-a96a-4b71f9d57188")
+		)
+		(fp_line
+			(start -1.27 -1.27)
+			(end 0.635 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "445c5c58-9055-4912-8f2c-a22104d21024")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 3.81 90)
@@ -5898,7 +5898,7 @@
 			)
 		)
 		(pad "1" thru_hole rect
-			(at 0 0)
+			(at 0 0 180)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -5909,7 +5909,7 @@
 			(uuid "2b4b71bf-bf4c-453b-a62f-4533ab820586")
 		)
 		(pad "2" thru_hole circle
-			(at 0 2.54)
+			(at 0 2.54 180)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -5920,7 +5920,7 @@
 			(uuid "87446355-1f04-4df7-ab68-7d0492b12db9")
 		)
 		(pad "3" thru_hole circle
-			(at 0 5.08)
+			(at 0 5.08 180)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -5931,7 +5931,7 @@
 			(uuid "1dcd5d05-b85a-4d43-80e5-538624091dff")
 		)
 		(pad "4" thru_hole circle
-			(at 0 7.62)
+			(at 0 7.62 180)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -5957,7 +5957,7 @@
 	(footprint "Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "cc4c950b-cec7-4e64-bc7e-8721a22501de")
-		(at -41.505 82.385)
+		(at 117.31 125.66)
 		(descr "Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
 		(tags "Through hole socket strip THT 1x02 1.00mm single row")
 		(property "Reference" "J4"
@@ -6227,7 +6227,7 @@
 	(footprint "Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef9ae702-1b92-49b1-a3bd-bf17d7a35d84")
-		(at -34.405 82.385)
+		(at 124.41 125.66)
 		(descr "Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
 		(tags "Through hole socket strip THT 1x02 1.00mm single row")
 		(property "Reference" "J6"
@@ -6497,7 +6497,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f7898d76-17d6-4d5f-9df4-283874b58d6d")
-		(at -45.095 29.925)
+		(at 113.72 73.2)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=5.08mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 5.08mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R1"
