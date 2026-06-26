@@ -3797,7 +3797,7 @@
 				)
 			)
 		)
-		(property "Value" "SONAR-3"
+		(property "Value" "SONAR-1"
 			(at 214.63 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3962,7 +3962,7 @@
 				)
 			)
 		)
-		(property "Value" "SONAR-4"
+		(property "Value" "SONAR-1"
 			(at 182.88 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4127,7 +4127,7 @@
 				)
 			)
 		)
-		(property "Value" "SONAR-5"
+		(property "Value" "SONAR-1"
 			(at 213.36 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5419,7 +5419,7 @@
 				)
 			)
 		)
-		(property "Value" "SONAR-2"
+		(property "Value" "SONAR-1"
 			(at 187.96 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
