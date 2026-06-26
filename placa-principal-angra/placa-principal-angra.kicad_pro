@@ -645,13 +645,18 @@
       {
         "filename": "placa-principal-angra.kicad_sch",
         "name": "placa-principal-angra",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "66a830c7-09e7-4927-a3a6-8d74ed83bae5"
       }
     ],
     "used_designators": "R1-10,#FLG1-4,J1-12,#PWR1-4,U1-2",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "66a830c7-09e7-4927-a3a6-8d74ed83bae5",
+      "placa-principal-angra"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
